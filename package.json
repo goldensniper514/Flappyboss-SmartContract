@@ -1,0 +1,13 @@
+{
+	"dependencies": {
+		"@openzeppelin/contracts": "^5.0.0",
+		"@quai/hardhat-deploy-metadata": "^1.0.8",
+		"@quai/quais-upgrades": "^3.8.14",
+		"dotenv": "^16.4.5",
+		"hardhat": "^2.19.5",
+		"quais": "^1.0.0-alpha.49"
+	},
+	"devDependencies": {
+		"@nomicfoundation/hardhat-toolbox": "^5.0.0"
+	}
+}
